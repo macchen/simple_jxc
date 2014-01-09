@@ -1,5 +1,8 @@
 Save Format v3.0(19990112)
-@begin Targets
- 0 "simple_jxc.pbt";
- 1 "sale_pos.pbt";
+@begin Unchecked
 @end;
+@begin Targets
+ 0 "main.pbt";
+@end;
+DefaultTarget "main.pbt";
+DefaultRemoteTarget "main.pbt";
